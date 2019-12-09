@@ -1,1 +1,3 @@
-# word_emebeddings_imilarity_clustering
+# word_emebeddings
+# cosine similarity
+# text clustering
